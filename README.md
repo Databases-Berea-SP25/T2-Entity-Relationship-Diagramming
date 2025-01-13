@@ -26,7 +26,7 @@ Entity-Relationship (ER) models are expressed using diagrams. To understand how 
 
 ### Features of the Diagram
 
-We've done the first one for you:
+**a. List the features of this diagram. We've done the first one for you.**
 
 - **Boxes:** Represent entities, such as Customer.
 - **[Your Answer Here]**
