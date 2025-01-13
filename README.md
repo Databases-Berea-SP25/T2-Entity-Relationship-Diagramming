@@ -45,7 +45,7 @@ Entity-Relationship (ER) models are expressed using diagrams. To understand how 
 
 **c. Why are there two lines between CUSTOMER and PLAN? Explain why, and what you think the two lines mean.**
 
-Put your answer here 
+⬇️ Put your answer here 
 
 ### Translating the Diagram into Words
 
