@@ -13,13 +13,16 @@
 - [Contributor 1](#)
 - [Contributor 2](#)
 - [Contributor 3](#)
-- *…*
 
 ---
 
 ## Part 1: What is an E-R Diagram (ERD)?
 
 Entity-Relationship (ER) models are expressed using diagrams. To understand how ERDs are created and interpreted, we will begin by looking at an example from the book (p. 100). This example model depicts a theoretical database used for a mobile phone company. Answer the following questions about the ERD below.
+
+![ER Diagram](ERD.png)
+
+
 
 ### Features of the Diagram
 
@@ -28,7 +31,7 @@ We've done the first one for you:
 - **Boxes:** Represent entities, such as Customer.
 - **[Your Answer Here]**
 - **[Your Answer Here]**
-- **[Continue listing features...]**
+- **[...]**
 
 ### Cardinalities Between Entities
 
@@ -42,14 +45,14 @@ We've done the first one for you:
 
 **Why are there two lines between CUSTOMER and PLAN? Explain why, and what you think the two lines mean.**
 
-- Put your answer here 
+Put your answer here 
 
 ### Translating the Diagram into Words
 
 **Attempt to translate the above diagram into words. Write a list of bullet points with English descriptions of each entity and how it relates to other entities.**
 
 - A **CUSTOMER** can be responsible for many mobile phone **PLANS**, but may be responsible for no plans.
-- **[Your Bullet Points Here]**
+- **[Add here]**
 
 
 ---
