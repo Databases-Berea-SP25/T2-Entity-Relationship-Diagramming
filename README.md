@@ -1,10 +1,10 @@
 # Entity-Relationship Diagram (ERD) Assignment
 
-## Learning Objectives
+## Learning Objectives 🎯
 
-- **Practice identifying entities, attributes, and relationships**
-- **Learn to create business rules from a real-world setting**
-- **Introduce entity-relationship diagrams with standardized notation**
+- **Practice identifying entities, attributes, and relationships ✅**
+- **Learn to create business rules from a real-world setting ✅**
+- **Introduce entity-relationship diagrams with standardized notation ✅**
 
 ## Contributors
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Part 1: What is an E-R Diagram (ERD)?
+## Part 1: What is an E-R Diagram (ERD) 📝? 
 
 Entity-Relationship (ER) models are expressed using diagrams. To understand how ERDs are created and interpreted, we will begin by looking at an example from the book (p. 100). This example model depicts a theoretical database used for a mobile phone company. Answer the following questions about the ERD below.
 
@@ -31,11 +31,11 @@ Entity-Relationship (ER) models are expressed using diagrams. To understand how 
 - **Boxes:** Represent entities, such as Customer.
 - **[Your Answer Here]**
 - **[Your Answer Here]**
-- **[...]**
+- **[Continue...]**
 
 ### Cardinalities Between Entities
 
-**Explain the different types of cardinalities between entities. What does each symbol mean?**
+**b. Explain the different types of cardinalities between entities. What does each symbol mean?**
 
 - **One-to-One (1:1):** 
 - **One-to-Many (1:N):** 
@@ -43,13 +43,13 @@ Entity-Relationship (ER) models are expressed using diagrams. To understand how 
 
 ### Two Lines Between CUSTOMER and PLAN
 
-**Why are there two lines between CUSTOMER and PLAN? Explain why, and what you think the two lines mean.**
+**c. Why are there two lines between CUSTOMER and PLAN? Explain why, and what you think the two lines mean.**
 
 Put your answer here 
 
 ### Translating the Diagram into Words
 
-**Attempt to translate the above diagram into words. Write a list of bullet points with English descriptions of each entity and how it relates to other entities.**
+**d. Attempt to translate the above diagram into words. Write a list of bullet points with English descriptions of each entity and how it relates to other entities.**
 
 - A **CUSTOMER** can be responsible for many mobile phone **PLANS**, but may be responsible for no plans.
 - **[Add here]**
@@ -61,13 +61,13 @@ Put your answer here
 
 ### Scenario Selection
 
-**What real-life setting are you modeling?**
+**a. What real-life setting are you modeling?**
 
 *Example: Berea College Library*
 
 ### Identify Entities
 
-**List out each entity, with a short description or list of attributes.**
+**b. List out each entity, with a short description or list of attributes.**
 
 - **Book**
   - *Attributes:* Title, ISBN
